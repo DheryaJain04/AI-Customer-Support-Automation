@@ -6,6 +6,38 @@ The system classifies customer queries, routes them to specialized AI agents, re
 
 ---
 
+## Workflow Architecture
+
+The following diagram illustrates the overall LangGraph workflow of the system.
+
+<p align="center">
+    <img src="screenshots/workflow.png" width="850">
+</p>
+
+---
+
+## Project Demonstration
+
+### Sales Support
+
+<p align="center">
+    <img src="screenshots/sales-query.png" width="850">
+</p>
+
+### Technical Support
+
+<p align="center">
+    <img src="screenshots/technical-query.png" width="850">
+</p>
+
+### Billing (Human Approval)
+
+<p align="center">
+    <img src="screenshots/refund-approval.png" width="850">
+</p>
+
+---
+
 ## Features
 
 * Multi-Agent workflow using LangGraph
