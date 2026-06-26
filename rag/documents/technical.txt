@@ -1,0 +1,19 @@
+Technical Support Guide
+
+If the application crashes:
+
+Restart the application.
+
+Clear cache.
+
+Update to the latest version.
+
+Check your internet connection.
+
+If login fails:
+
+Reset your password.
+
+Verify your registered email.
+
+Contact technical support if the issue continues.

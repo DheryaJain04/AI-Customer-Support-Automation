@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Generated database
+memory/chat_memory.db
+
+# Generated vector database
+rag/faiss_index/
+
+# OS Files
+.DS_Store
+Thumbs.db

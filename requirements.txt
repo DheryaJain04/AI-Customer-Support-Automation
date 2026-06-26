@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pypdf
+unstructured
